@@ -1,4 +1,4 @@
-# Prática: Arquitetura Full Cycle - Atividade Nº10
+# Prática Full Cycle: Arquitetura - Atividade Nº10
 
 Este repositório contém a resolução da atividade prática focada em debugging e testes unitários.
 
