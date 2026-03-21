@@ -49,7 +49,7 @@ self.assertNotEqual(expected_hash, actual_hash, "Bug encontrado...")
 Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/projeto-fullcycle-bugs.git
+git clone https://github.com/gradinguilherme/Pratica-Arquitetura-Full-Cycle-10.git
 ```
 
 Execute os testes para ver as falhas/correções:
